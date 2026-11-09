@@ -201,3 +201,6 @@ This repository serves as the official landing page for eXtreme Movie Manager. T
 - 💬 **[Community](https://softcosmo.com/about-us/)**
 ---
 **Get the most recent version of eXtreme Movie Manager today!**
+
+---
+**Last updated:** 2026-11-09 13:39:19 UTC
